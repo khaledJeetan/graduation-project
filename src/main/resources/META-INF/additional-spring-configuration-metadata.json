@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "hibernate.hql.bulk_id_strategy",
+      "VALUE":"org.hibernate.hql.spi.id.inline.InlineIdsInClauseBulkIdStrategy",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.hql.bulk_id_strategy."
+    }
+  ] }
