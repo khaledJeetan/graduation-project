@@ -8,6 +8,7 @@ NextStep is an application that facilitates home construction and finishing, dev
 - [Introduction](#introduction)
 - [Technology](#technology)
 - [Features](#features)
+- [Database UML](#database-uml)
 - [Setup](#setup)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
@@ -48,6 +49,11 @@ NextStep offers the following key features:
 - Rating & Review System
 - Budget Tracking
 - Construction Plan Generation
+
+## Database UML
+
+![Database-UML](https://github.com/khaledJeetan/graduation-project/assets/98354275/b889ad8d-0bb3-4eaf-a300-f37eb3452f41)
+
 
 ## Setup
 
